@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +7,7 @@
 </head>
 
 <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Hello%20World!😁&fontSize=70&animation=blink&desc=I'm%20Ali%20ML%20Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Hello%20World!😁&fontSize=70&animation=blink&desc=I'm%20Ali%20ML%20EngineerdescAlign=20" />
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90" />
 </body>
 
