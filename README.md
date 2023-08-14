@@ -1,4 +1,3 @@
-### Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,13 +9,14 @@
 
 <body>
     <p align="center">
-      <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HiEveryone!&fontSize=90" />
+      <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=90" />
     </p>
 
 
 </html>
 
 <!--
+### Hi there 👋
 **alim9hamed/alim9hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
