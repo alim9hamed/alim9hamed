@@ -10,7 +10,7 @@
 
 <body>
     <p align="center">
-      <img src="https://capsule-render.vercel.app/api?/>
+      <img src="https://capsule-render.vercel.app/api?"/>
     </p>
 
 
