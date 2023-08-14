@@ -7,8 +7,8 @@
 </head>
 
 <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!😁&fontSize=90&animation=blink&descSize=%10" />
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Hi%20Everyone&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!😁&fontSize=90&animation=blink&descSize=1000" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90" />
 </body>
 
 </html>
