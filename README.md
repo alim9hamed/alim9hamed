@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone,%20I'm%20Ali😁-nl-ML%20Engineer&fontSize=70&animation=blink&fontAlign=45&fontAlignY=25&rotate=0&descAlign=100&height=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone,%20I'm%20Ali😁-nl-ML%20Engineer&fontSize=70&animation=blink&fontAlign=45&fontAlignY=25&rotate=0&descAlign=100&height=%40" />
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90" />
 </body>
 
