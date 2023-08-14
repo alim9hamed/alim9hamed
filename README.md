@@ -1,5 +1,3 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
-![reversal](https://capsule-render.vercel.app/api?type=slice&color=gradient)
 <html lang="en">
 
 <head>
