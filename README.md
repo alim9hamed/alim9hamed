@@ -1,7 +1,19 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img
+        src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</body>
+
+</html>
 
 <!--
 **alim9hamed/alim9hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
