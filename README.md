@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 
 <body>
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Everyone&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Hi%20Everyone&fontSize=90" />
 </body>
 
 </html>
