@@ -6,7 +6,7 @@
   <img height="50" src="linkedin.png"/>
 </a>
     <a href="https://www.linkedin.com/in/ِali-mohamed-4218391b1">
-  <img height="50" src="instgram.png"/>
+  <img height="50" src="linkedin.png"/>
 </a>
 </body>
 
