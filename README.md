@@ -8,7 +8,6 @@
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Hello%20World!😁&fontSize=70&animation=blink&desc=I'm%20Ali%20ML%20Engineer&fontAlign=33&descAlign=15&fontAlignY=20&descAlignY=30" />
 <!--     Links -->
-    <a href="www.linkedin.com/in/ِali-mohamed-4218391b1" target="blank"><img align="center" src="linkedin.png" alt="www.linkedin.com/in/ِali-mohamed-4218391b1" height="30" width="40" /></a>
     <a href="">
     <img height="50" src="facebook.png"/>
 </a>
