@@ -23,7 +23,7 @@
 <br> 
 
 <a href="https://github.com/alim9hamed/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alim9hamed" />
+  <img height=1000 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=alim9hamed" />
 </a>
 <a href="https://github.com/alim9hamed/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alim9hamed&layout=compact&langs_count=8&card_width=500" />
