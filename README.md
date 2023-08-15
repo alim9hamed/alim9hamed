@@ -1,5 +1,5 @@
 <!--     Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=200&section=header&text=Hello%20World!😁&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!😁&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
 <!--     Paragragh -->
 <p>I'm <b>Ali</b>, an ML Engineer, Data Scientist, Data Analyst, and Senior Student at the Faculty of Computer Science and Artificial Intelligence, at Fayoum University. If you need any help, please feel free to contact me.</p>
 <!--     Links -->
@@ -17,4 +17,4 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
