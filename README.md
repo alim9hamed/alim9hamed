@@ -17,4 +17,4 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30&theme=onedark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30&theme=cobalt" />
