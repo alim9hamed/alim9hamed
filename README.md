@@ -23,10 +23,10 @@
 <br> 
 
 <a href="https://github.com/alim9hamed/github-readme-stats">
-  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=alim9hamed" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=alim9hamed" />
 </a>
 <a href="https://github.com/alim9hamed/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alim9hamed&layout=compact&langs_count=8&card_width=360" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alim9hamed&layout=compact&langs_count=8&card_width=500" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alim9hamed&theme=prussian&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
