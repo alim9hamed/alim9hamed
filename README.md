@@ -6,7 +6,7 @@
   <img height="50" src="linkedin.png"/>
 </a>
     <a href="https://www.facebook.com/profile.php?id=100078176362609&mibextid=b06tZ0">
-  <img height="50" src="linkedin.png"/>
+  <img height="50" src="facebook.png"/>
 </a>
 </body>
 
