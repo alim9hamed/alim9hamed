@@ -3,6 +3,7 @@
 <!--     Paragragh -->
 <p>I'm <b>Ali</b>, an ML Engineer, Data Scientist, Data Analyst, and Senior Student at the Faculty of Computer Science and Artificial Intelligence, at Fayoum University. If you need any help, please feel free to contact me.</p>
 <!--     Links -->
+
 <h1>Contact Us</h1>
 <a href="https://www.linkedin.com/in/ِali-mohamed-4218391b1">
   <img height="50" src="linkedin.png"/>
@@ -17,7 +18,8 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Snake Game -->
-
+<br>
+<br>
 
 ![snake gif](https://github.com/alim9hamed/alim9hamed/blob/output/github-contribution-grid-snake.svg)
 <!--     Footer -->
