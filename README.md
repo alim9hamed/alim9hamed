@@ -17,6 +17,9 @@
 <a href="mailto:alim9hamem1000@gmail.com">
   <img height="50" src="email.png"/>
 </a>
+<!--     Stats -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alim9hamed&theme=midnight-purple&show_icons=true)
 <!--     Snake Game -->
 <br>
 <br>
