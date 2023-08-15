@@ -18,8 +18,12 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Stats -->
+<br>
+<br>
+<br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alim9hamed&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alim9hamed&layout=compact)
 <!--     Snake Game -->
 <br>
 <br>
