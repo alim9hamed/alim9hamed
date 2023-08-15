@@ -13,7 +13,7 @@
 <a href="https://www.kaggle.com/alimohamed01">
   <img height="50" src="kaggle.png"/>
 </a>
-<a href="alim9hamem1000@gmail.com">
+<a href="mailto:alim9hamem1000@gmail.com">
   <img height="50" src="email.png"/>
 </a>
 <!--     Footer -->
