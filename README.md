@@ -17,6 +17,12 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Snake Game -->
-![Snake animation](https://github.com/alim9hamed/alim9hamed/blob/output/github-contribution-grid-snake.svg)
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+```
 <!--     Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
