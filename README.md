@@ -17,6 +17,6 @@
   <img height="50" src="email.png"/>
 </a>
 <!--     Snake Game -->
-
+![snake gif](https://github.com/alim9hamed/alim9hamed/blob/output/github-contribution-grid-snake.gif)
 <!--     Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=70&animation=blink&fontAlign=33&fontAlignY=30" />
