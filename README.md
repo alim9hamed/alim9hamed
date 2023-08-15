@@ -11,7 +11,7 @@
     <a href="">
     <img height="50" src="facebook.png"/>
 </a>
-    <a href="www.linkedin.com/in/ِali-mohamed-4218391b1">
+    <a href="https://www.linkedin.com/in/ِali-mohamed-4218391b1">
   <img height="50" src="linkedin.png"/>
 </a>
     <a href="https://www.instagram.com/thepiyushmalhotra/">
