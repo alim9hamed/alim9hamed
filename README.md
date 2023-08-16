@@ -18,7 +18,7 @@
 </a>
 <!--     Links -->
 
-<h1>Contact Us</h1>
+<h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/ِali-mohamed-4218391b1">
   <img height="50" src="linkedin.png"/>
 </a>
