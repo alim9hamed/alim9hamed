@@ -8,7 +8,7 @@
         
 
 <h2>Projects</h2>
-<h3><a href="https://github.com/YourGitHubUsername/CaliforniaHousingCorporation">California Housing Corporation</a></h3>
+<h3><a href="https://github.com/alim9hamed/California_House_Prices.git">California Housing Corporation</a></h3>
 <ul>
     <li>Developed a predictive model to increase the district's median housing prices by 20%, significantly reducing time spent on complex calculations.</li>
     <li>Achieved labor reductions at a rate close to zero while increasing housing investment.</li>
@@ -16,7 +16,7 @@
     <li><strong>Role:</strong> Data Scientist</li>
 </ul>
 
-<h3><a href="https://github.com/YourGitHubUsername/TitanicPlatform">Titanic Platform</a></h3>
+<h3><a href="https://github.com/alim9hamed/titanic_platform.git">Titanic Platform</a></h3>
 <ul>
     <li>Provided data-driven insights to enable researchers, students, and history enthusiasts to make more informed decisions.</li>
     <li>Integrated our model with the Titanic website for ease of use and access.</li>
@@ -26,7 +26,7 @@
     <li><strong>Role:</strong> Data Scientist, Backend Developer</li>
 </ul>
 
-<h3><a href="https://github.com/YourGitHubUsername/TMDbMovieRevenueOptimization">TMDb Movie Revenue Optimization</a></h3>
+<h3><a href="https://github.com/alim9hamed/TMDb-movie-data.git">TMDb Movie Revenue Optimization</a></h3>
 <ul>
     <li>Conducted data analysis on IMDb movie revenue optimization, identifying high-revenue genres such as adventure, action, and animation, leading to targeted budget allocation and potential cost savings of 10-15%.</li>
     <li>Improved resource allocation and collaboration with industry partners for high-revenue genres, resulting in effective use of time and a reduction in misallocated resources.</li>
