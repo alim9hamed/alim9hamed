@@ -8,14 +8,14 @@
 
 
 <h2>Projects</h2>
-<h3><a href="https://github.com/alim9hamed/Traffic_Sign_Recognition.git">Traffic Sign Recognition</a></h3>
+<h3><a href="https://github.com/alim9hamed/german_traffic_signs.git">Traffic Sign Recognition</a></h3>
 <ul>
     <li>Built a CNN model based on the LeNet architecture to classify 43 traffic sign classes from the GTSRB dataset.</li>
     <li>Applied data augmentation and preprocessing techniques to enhance model accuracy, achieving 83.40% test accuracy.</li>
     <li><strong>Tools and Technologies:</strong> Python, Keras, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib, scikit-learn, LeNet</li>
 </ul>
 
-<h3><a href="https://github.com/alim9hamed/NER_BERT.git">Named Entity Recognition (NER) using BERT</a></h3>
+<h3><a href="https://github.com/alim9hamed/NERbert.git">Named Entity Recognition (NER) using BERT</a></h3>
 <ul>
     <li>Developed a fine-tuned BERT model for Named Entity Recognition (NER), preprocessing and tokenizing text data using Hugging Face's Transformers library and PyTorch.</li>
     <li>Fine-tuned the BERT model with AdamW optimizer, achieving effective entity recognition over 3 epochs.</li>
