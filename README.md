@@ -27,10 +27,10 @@
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/ِali-mohamed-4218391b1">
   <img height="50" src="linkedin.png"/>
-</a>
+<!-- </a>
 <a href="https://www.facebook.com/profile.php?id=100078176362609&mibextid=b06tZ0">
   <img height="50" src="facebook.png"/>
-</a>
+</a> -->
 <a href="https://www.kaggle.com/alimohamed01">
   <img height="50" src="kaggle.png"/>
 </a>
