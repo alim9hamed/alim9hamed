@@ -3,15 +3,15 @@
 
 <!--     Intro -->
 <h1>Ali Mohamed</h1>
-<p><strong>Odoo Developer | AI Engineer</strong></p>
+<p><strong>AI Engineer | Odoo Developer</strong></p>
 
 <p>
 Welcome to my GitHub profile! I'm a versatile developer working at the intersection of
-<strong>ERP systems</strong> and <strong>Artificial Intelligence</strong>. On one side, I build and customize
-<strong>Odoo</strong> modules and business solutions (Sales, Inventory, Accounting, POS, Website) to automate
-and streamline company workflows. On the other side, I design and deploy <strong>Machine Learning, NLP,
+<strong>ERP systems</strong> and <strong>Artificial Intelligence</strong>. On one side,I design and deploy <strong>Machine Learning, NLP,
 and Computer Vision</strong> models using techniques like prompt engineering, GANs, and LLMs such as BERT
-and GPT-2. I enjoy combining both worlds — bringing AI-powered features into ERP systems and building
+and GPT-2. I enjoy combining both worlds. On the other side, I build and customize
+<strong>Odoo</strong> modules and business solutions (Sales, Inventory, Accounting, POS, Website) to automate
+and streamline company workflows. — bringing AI-powered features into ERP systems and building
 data-driven solutions that create real business impact.
 </p>
 
