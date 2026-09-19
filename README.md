@@ -7,7 +7,7 @@
 
 <p>
 Welcome to my GitHub profile! I'm a versatile developer working at the intersection of
-<strong>ERP systems</strong> and <strong>Artificial Intelligence</strong>. On one side,I design and deploy <strong>Machine Learning, NLP,
+<strong>Artificial Intelligence</strong> and <strong>ERP systems</strong>. On one side,I design and deploy <strong>Machine Learning, NLP,
 and Computer Vision</strong> models using techniques like prompt engineering, GANs, and LLMs such as BERT
 and GPT-2. I enjoy combining both worlds. On the other side, I build and customize
 <strong>Odoo</strong> modules and business solutions (Sales, Inventory, Accounting, POS, Website) to automate
