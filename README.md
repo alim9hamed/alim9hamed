@@ -3,7 +3,7 @@
 
 <!--     Intro -->
 <h1>Ali Mohamed</h1>
-<p><strong>Odoo Developer | AI Engineer | Data Scientist</strong></p>
+<p><strong>Odoo Developer | AI Engineer</strong></p>
 
 <p>
 Welcome to my GitHub profile! I'm a versatile developer working at the intersection of
